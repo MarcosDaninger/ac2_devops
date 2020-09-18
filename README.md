@@ -9,3 +9,5 @@ Exemplo comando clone:
 3 - Clone (print_03)  
 
 4 - Ls com pasta criada(print_04)  
+
+5 - Git add (print_05
